@@ -19,7 +19,9 @@ Concordia et laetitia!  Пишем и переводим материалы об
 # Ресурсы
 
 ## Русскоязычные
-   - 
+   - Телеграм
+     - 
 ## Англоязычные
-   -
+   - [World Social Media Platforms. Большой список социальных сетей и платформ от OSINT Combine](https://www.osintcombine.com/world-social-media-platforms)
+   - 
 
