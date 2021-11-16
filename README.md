@@ -16,9 +16,9 @@ Concordia et laetitia!  Пишем и переводим материалы об
   - [Скрытый контент на YouTube](https://telegra.ph/Skrytyj-kontent-na-Youtube-12-11)
 2. Смежные с OSINT дисциплины
   - [Манипуляция – вводная часть](https://telegra.ph/Manipulyacii---vvodnaya-chast-08-04)
-3. Ресурсы
-  - Русскоязычные (+переведенные)
-    - 
-  - Англоязычные
-    -
+# Ресурсы
+- Русскоязычные
+  - 
+- Англоязычные
+  -
 
